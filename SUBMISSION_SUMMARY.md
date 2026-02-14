@@ -12,7 +12,7 @@
 
 ```
 [To be filled after GitHub upload]
-https://github.com/YOUR_USERNAME/bank-marketing-ml-prediction
+[https://github.com/umamaheshwar2024ado5477/ML-Bank-Marketing-Campaign-Prediction]
 ```
 
 **Repository Contents**:
@@ -49,7 +49,7 @@ https://your-app-name.streamlit.app
 - Model training output showing all 6 models
 - Evaluation metrics table
 - Timestamp proving execution on BITS Lab
-
+<img width="940" height="558" alt="image" src="https://github.com/user-attachments/assets/f8e94565-85a9-46ab-953e-d7b4a92d3fb1" />
 ---
 
 ## 4. Dataset Information
@@ -335,3 +335,4 @@ Before final submission, ensure:
 ---
 
 *End of Submission Summary*
+
