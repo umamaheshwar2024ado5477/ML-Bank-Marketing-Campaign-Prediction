@@ -200,7 +200,7 @@ The app will open in your default web browser at `http://localhost:8501`
 ✅ BITS Lab Execution: Completed (screenshot to be uploaded separately)
 
 ## Author
-**Uma Mahesh**  
+**UmaMaheshwar Allada**  
 M.Tech (AIML/DSE)  
 BITS Pilani Work Integrated Learning Programme
 
@@ -212,3 +212,4 @@ BITS Pilani Work Integrated Learning Programme
 
 ## License
 This project is created for educational purposes as part of the ML course curriculum.
+
