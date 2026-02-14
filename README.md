@@ -207,9 +207,8 @@ BITS Pilani Work Integrated Learning Programme
 ## Assignment Details
 - **Course**: Machine Learning
 - **Assignment**: Assignment 2
-- **Submission Deadline**: 15-Feb-2026
-- **Total Marks**: 15
 
 ## License
 This project is created for educational purposes as part of the ML course curriculum.
+
 
