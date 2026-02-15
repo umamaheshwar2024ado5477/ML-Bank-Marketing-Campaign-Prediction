@@ -10,7 +10,6 @@
 ## 1. GitHub Repository Link
 
 ```
-[To be filled after GitHub upload]
 [https://github.com/umamaheshwar2024ado5477/ML-Bank-Marketing-Campaign-Prediction]
 ```
 
@@ -27,7 +26,6 @@
 ## 2. Live Streamlit App Link
 
 ```
-[To be filled after deployment]
 [https://ml-bank-marketing-campaign-prediction.streamlit.app/]
 ```
 
@@ -342,6 +340,7 @@ Before final submission, ensure:
 ---
 
 *End of Submission Summary*
+
 
 
 
