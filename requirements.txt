@@ -6,5 +6,5 @@ streamlit
 matplotlib
 seaborn
 pickle-mixin
-
+Streamlit>=1.20.0
 
