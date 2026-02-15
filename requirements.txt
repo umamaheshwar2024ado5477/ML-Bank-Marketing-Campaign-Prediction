@@ -6,3 +6,4 @@ streamlit
 matplotlib
 seaborn
 pickle-mixin
+altair<5
