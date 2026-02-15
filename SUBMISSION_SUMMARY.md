@@ -3,8 +3,7 @@
 **Student Name**: Uma Mahesh  
 **Course**: Machine Learning (M.Tech AIML/DSE)  
 **Assignment**: Assignment 2  
-**Submission Date**: February 2026  
-**Total Marks**: 15
+**Submission Date**: 15 February 2026  
 
 ---
 
@@ -50,6 +49,14 @@
 - Evaluation metrics table
 - Timestamp proving execution on BITS Lab
 <img width="940" height="558" alt="image" src="https://github.com/user-attachments/assets/f8e94565-85a9-46ab-953e-d7b4a92d3fb1" />
+<img width="940" height="556" alt="image" src="https://github.com/user-attachments/assets/13e4a2f9-5d5d-46c4-a2cc-942a6fb88d3e" />
+<img width="940" height="553" alt="image" src="https://github.com/user-attachments/assets/982c84d3-3714-488b-a2ba-b91a96ee49ab" />
+<img width="940" height="559" alt="image" src="https://github.com/user-attachments/assets/71f4737b-9c31-45bc-8037-9c6e8f48616a" />
+<img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/114cdca5-fa67-4e12-841d-59837d764aaf" />
+<img width="940" height="561" alt="image" src="https://github.com/user-attachments/assets/da3b8f4a-fffd-4e41-aa67-320573d59447" />
+<img width="940" height="592" alt="image" src="https://github.com/user-attachments/assets/0cca2fcf-f226-4f84-9df6-0fe1a44cac2a" />
+<img width="1031" height="612" alt="image" src="https://github.com/user-attachments/assets/0bb18173-a238-4ffd-b864-d326ecc85fc2" />
+
 ---
 
 ## 4. Dataset Information
@@ -335,6 +342,7 @@ Before final submission, ensure:
 ---
 
 *End of Submission Summary*
+
 
 
 
