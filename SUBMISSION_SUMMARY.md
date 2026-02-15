@@ -1,6 +1,6 @@
 # ML Assignment 2 - Submission Summary
 
-**Student Name**: Uma Mahesh  
+**Student Name**: UmaMaheshwar Allada
 **Course**: Machine Learning (M.Tech AIML/DSE)  
 **Assignment**: Assignment 2  
 **Submission Date**: 15 February 2026  
@@ -342,6 +342,7 @@ Before final submission, ensure:
 ---
 
 *End of Submission Summary*
+
 
 
 
